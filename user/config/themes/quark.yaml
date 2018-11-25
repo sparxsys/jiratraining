@@ -1,0 +1,24 @@
+enabled: true
+production-mode: true
+grid-size: grid-lg
+header-fixed: true
+header-animated: true
+header-dark: false
+header-transparent: false
+sticky-footer: true
+blog-page: /blog
+spectre:
+  exp: true
+  icons: true
+custom_logo:
+  user/themes/quark/images/logo/Jira.Training.png:
+    name: Jira.Training.png
+    type: image/png
+    size: 6190
+    path: user/themes/quark/images/logo/Jira.Training.png
+custom_logo_mobile:
+  user/themes/quark/images/logo/Jira.Training.White.png:
+    name: Jira.Training.White.png
+    type: image/png
+    size: 6070
+    path: user/themes/quark/images/logo/Jira.Training.White.png

@@ -1,0 +1,11 @@
+email: ravisagar@gmail.com
+fullname: 'Ravi Sagar'
+title: Author
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$WGgrCXC7EuEWyLD5RB6cEuIcM41Y1odXQ0I4EbotoAtC9QO0mCFLG

@@ -1,0 +1,17 @@
+title: 'Jira Training'
+default_lang: en
+author:
+  name: 'Ravi Sagar'
+  email: ravi@sparxsys.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Become an expert in Jira Administration'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
