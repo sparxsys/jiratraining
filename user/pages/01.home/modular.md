@@ -6,7 +6,7 @@ content:
         by: default
         dir: asc
 body_classes: 'modular header-image fullwidth'
-menu: 'Welcome Home'
+menu: Home
 onpage_menu: true
 ---
 
