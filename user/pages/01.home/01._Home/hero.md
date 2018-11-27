@@ -13,4 +13,4 @@ Learn Jira 7 Administration through this one-stop guide.
 
 <a href="https://www.packtpub.com/application-development/mastering-jira-7-second-edition" class="btn btn-primary btn-lg" target="_blank">Buy now</a>
 
-<a href="about" class="btn btn-secondary btn-lg">About</a>
+<a href="blog" class="btn btn-secondary btn-lg">Blog</a>
